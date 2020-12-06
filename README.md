@@ -14,3 +14,6 @@ Finnally
 ````
 scrapy crawl listing -o data-set.json
 ````
+# Motivation 
+
+the project is a study of advanced concepts in Scrapy and Splash
